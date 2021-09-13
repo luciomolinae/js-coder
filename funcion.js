@@ -1,6 +1,6 @@
 
 
-//Se le preguntara al usuario cuantas toneladas cosecho de soja, para hacer un estimativo de cuantos dólares equivale
+//Se le preguntara al usuario cuantas toneladas cosecho de soja, para hacer un estimativo de cuantos dólares obtendria de ganancia con o sin retenciones
 
 
 
